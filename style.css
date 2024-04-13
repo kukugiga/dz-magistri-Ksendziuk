@@ -1,0 +1,22 @@
+/* Дополнительные стили */
+.container {
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  .list-group-item {
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0;
+  }
+  .list-group-item:last-child {
+    border-bottom: none;
+  }
+  img {
+    width: 500px; 
+    height: 500px;
+  }
+  
